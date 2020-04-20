@@ -1,0 +1,11 @@
+.InputStatus {
+    color: white;
+    background-color: rgb(59, 58, 58);
+    border-style: none;
+    border-radius: 20px;
+    width: 300px;
+    height: 30px;
+    font-size: medium;
+    text-align: center;
+    margin: 10px;
+}

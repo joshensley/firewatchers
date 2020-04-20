@@ -1,0 +1,39 @@
+.Nav {
+    background-color: #333;
+    overflow: hidden;
+    color: white;
+}
+
+.UnorderedList {
+    list-style: none;
+}
+
+.ListItem {
+    float: right;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 10px 10px 10px 10px;
+    margin: 5px;
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+}
+
+.Firewatchers {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 10px 10px 10px 10px;
+    margin: 5px;
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+}
+
+.NavLink {
+    color: white;
+}
+
+.Nav li:hover {
+    background-color: black;
+}

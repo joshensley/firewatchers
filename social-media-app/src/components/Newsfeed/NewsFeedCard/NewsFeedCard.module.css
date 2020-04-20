@@ -1,0 +1,84 @@
+.Example {
+    position: absolute;
+    top: 70px;
+    left: 25px;
+}
+
+.Center {   
+    width: 485px;
+    font-size: 15px;
+    margin: 0px;
+    padding: 0px;
+    text-align: left;
+    display: inline-block;
+}
+
+.MainCard {
+    border-radius: 10px;
+    background-color: rgb(59, 58, 58);
+    color:white;
+    margin: 15px;
+    width: 550px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    align-content: center;
+}
+
+.TopLeft {
+    font-size: 15px;
+}
+
+.LikeCommentButton {
+    background-color: black;
+    color:white;
+    border-color: black;
+    padding: 5px 10px 5px 10px;
+    margin: 0px 0px 0px 10px;
+}
+
+.InputStatus {
+    color: white;
+    background-color: rgb(37, 37, 37);
+    border-style: none;
+    border-radius: 20px;
+    width: 300px;
+    height: 30px;
+    font-size: medium;
+    text-align: center;
+}
+
+.Img {
+    width: 55px;
+    height: 55px;
+    border-radius: 50%;
+    object-fit: cover;
+    padding: 0px 0px 0px 0px;
+    position: absolute;
+    top: 10px;
+    left: 20px;
+}
+
+.Name {
+    position: absolute;
+    left: 90px;
+    top: 5px;
+}
+
+.Date {
+    position: absolute;
+    left: 90px;
+    top: 25px;
+}
+
+.ViewComments {
+    cursor: pointer;
+    text-align: left;
+    font-size: small;
+}
+
+.ViewComments:hover {
+    text-decoration: underline;
+}

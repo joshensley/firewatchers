@@ -1,0 +1,61 @@
+.AddFriend {
+    background-color: royalblue;
+    border-color: royalblue;
+    padding: 15px;
+    margin: 5px;
+    border-radius: 5px;
+    color: white;
+    font-size: 20px;
+}
+
+.AddFriend:hover {
+    background-color: mediumblue;
+    border-color: mediumblue;
+}
+
+.FriendRequest {
+    background-color: khaki;
+    border-color: khaki;
+    padding: 15px;
+    margin: 5px;
+    border-radius: 5px;
+    color: black;
+    font-size: 20px;
+}
+
+.FriendRequest:hover {
+    background-color: darkkhaki;
+    border-color: darkkhaki;
+}
+
+.Accept {
+    background-color: forestgreen;
+    border-color: forestgreen;
+    padding: 15px;
+    margin: 5px;
+    border-radius: 5px;
+    color: white;
+    font-size: 20px;
+}
+
+.Accept:hover {
+    background-color: darkgreen;
+    border-color: darkgreen;
+}
+
+.Unfriend {
+    background-color: crimson;
+    border-color: crimson;
+    padding: 15px;
+    margin: 5px;
+    border-radius: 5px;
+    color: white;
+    font-size: 20px;
+}
+
+.Unfriend:hover {
+    background-color: firebrick;
+    border-color: firebrick;
+}
+
+

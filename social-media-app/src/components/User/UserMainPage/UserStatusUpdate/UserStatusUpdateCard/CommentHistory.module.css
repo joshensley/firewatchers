@@ -1,0 +1,35 @@
+.Background {
+    border-radius: 10px;
+    background-color: gray;
+    padding: 10px;
+    margin: 5px;
+    width: 450px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+    padding: 0px 10px 10px 10px;
+    /* position: absolute; */
+    left: 60px;
+    float: left;
+   
+}
+
+.Name {
+    /* position: absolute; */
+    padding: 10px 0px 0px 0px;
+    float: left;
+    font-size: small;
+}
+
+.Comment {
+    /* position: absolute; */
+    padding: 0px 0px 0px 0px;
+    text-align: justify;
+    clear: both;
+}
